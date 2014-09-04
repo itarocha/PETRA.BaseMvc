@@ -1,0 +1,13 @@
+E:\projetos_dardani\PETRA\Petra.Util\bin\Release\Petra.Util.dll
+E:\projetos_dardani\PETRA\Petra.Util\bin\Release\Petra.Util.pdb
+E:\projetos_dardani\PETRA\Petra.Util\bin\Release\Dardani.DAO.dll
+E:\projetos_dardani\PETRA\Petra.Util\bin\Release\NHibernate.dll
+E:\projetos_dardani\PETRA\Petra.Util\bin\Release\Iesi.Collections.dll
+E:\projetos_dardani\PETRA\Petra.Util\bin\Release\Dardani.DAO.pdb
+E:\projetos_dardani\PETRA\Petra.Util\bin\Release\NHibernate.xml
+E:\projetos_dardani\PETRA\Petra.Util\bin\Release\Iesi.Collections.xml
+E:\projetos_dardani\PETRA\Petra.Util\obj\Release\Petra.Util.csprojResolveAssemblyReference.cache
+E:\projetos_dardani\PETRA\Petra.Util\obj\Release\Petra.Util.dll
+E:\projetos_dardani\PETRA\Petra.Util\obj\Release\Petra.Util.pdb
+E:\projetos_dardani\PETRA\Petra.Util\bin\Release\FluentNHibernate.dll
+E:\projetos_dardani\PETRA\Petra.Util\bin\Release\FluentNHibernate.xml

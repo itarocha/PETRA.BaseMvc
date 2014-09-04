@@ -1,0 +1,16 @@
+E:\projetos_dardani\DAO\bin\Release\Dardani.DAO.dll.config
+E:\projetos_dardani\DAO\bin\Release\Dardani.DAO.dll
+E:\projetos_dardani\DAO\bin\Release\Dardani.DAO.pdb
+E:\projetos_dardani\DAO\bin\Release\EntityFramework.dll
+E:\projetos_dardani\DAO\bin\Release\EntityFramework.SqlServer.dll
+E:\projetos_dardani\DAO\bin\Release\Iesi.Collections.dll
+E:\projetos_dardani\DAO\bin\Release\NHibernate.dll
+E:\projetos_dardani\DAO\bin\Release\EntityFramework.xml
+E:\projetos_dardani\DAO\bin\Release\EntityFramework.SqlServer.xml
+E:\projetos_dardani\DAO\bin\Release\Iesi.Collections.xml
+E:\projetos_dardani\DAO\bin\Release\NHibernate.xml
+E:\projetos_dardani\DAO\obj\Release\Dardani.DAO.csprojResolveAssemblyReference.cache
+E:\projetos_dardani\DAO\obj\Release\Dardani.DAO.dll
+E:\projetos_dardani\DAO\obj\Release\Dardani.DAO.pdb
+E:\projetos_dardani\DAO\bin\Release\FluentNHibernate.dll
+E:\projetos_dardani\DAO\bin\Release\FluentNHibernate.xml

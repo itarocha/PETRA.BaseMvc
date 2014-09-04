@@ -1,0 +1,15 @@
+D:\pessoal\itamar\DAO\bin\Debug\Petra.DAO.dll.config
+D:\pessoal\itamar\DAO\bin\Debug\Petra.DAO.dll
+D:\pessoal\itamar\DAO\bin\Debug\Petra.DAO.pdb
+D:\pessoal\itamar\DAO\bin\Debug\EntityFramework.dll
+D:\pessoal\itamar\DAO\bin\Debug\EntityFramework.SqlServer.dll
+D:\pessoal\itamar\DAO\bin\Debug\FluentNHibernate.dll
+D:\pessoal\itamar\DAO\bin\Debug\Iesi.Collections.dll
+D:\pessoal\itamar\DAO\bin\Debug\NHibernate.dll
+D:\pessoal\itamar\DAO\bin\Debug\EntityFramework.xml
+D:\pessoal\itamar\DAO\bin\Debug\EntityFramework.SqlServer.xml
+D:\pessoal\itamar\DAO\bin\Debug\FluentNHibernate.xml
+D:\pessoal\itamar\DAO\bin\Debug\Iesi.Collections.xml
+D:\pessoal\itamar\DAO\bin\Debug\NHibernate.xml
+D:\pessoal\itamar\DAO\obj\Debug\Petra.DAO.dll
+D:\pessoal\itamar\DAO\obj\Debug\Petra.DAO.pdb
