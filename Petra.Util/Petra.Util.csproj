@@ -51,6 +51,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Attributes\ConverterEntidadeAttribute.cs" />
+    <Compile Include="Attributes\ManterCaseAttribute.cs" />
     <Compile Include="Funcoes\Conversor.cs" />
     <Compile Include="Funcoes\Criptografia.cs" />
     <Compile Include="Model\ItemStringVO.cs" />
