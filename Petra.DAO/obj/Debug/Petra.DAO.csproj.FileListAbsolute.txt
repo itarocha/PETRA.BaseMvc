@@ -13,3 +13,14 @@ D:\pessoal\itamar\DAO\bin\Debug\Iesi.Collections.xml
 D:\pessoal\itamar\DAO\bin\Debug\NHibernate.xml
 D:\pessoal\itamar\DAO\obj\Debug\Petra.DAO.dll
 D:\pessoal\itamar\DAO\obj\Debug\Petra.DAO.pdb
+D:\pessoal\itamar\projetos_net\PETRA.BaseMvc\Petra.DAO\bin\Debug\Petra.DAO.dll.config
+D:\pessoal\itamar\projetos_net\PETRA.BaseMvc\Petra.DAO\bin\Debug\Petra.DAO.dll
+D:\pessoal\itamar\projetos_net\PETRA.BaseMvc\Petra.DAO\bin\Debug\Petra.DAO.pdb
+D:\pessoal\itamar\projetos_net\PETRA.BaseMvc\Petra.DAO\bin\Debug\EntityFramework.xml
+D:\pessoal\itamar\projetos_net\PETRA.BaseMvc\Petra.DAO\bin\Debug\EntityFramework.SqlServer.xml
+D:\pessoal\itamar\projetos_net\PETRA.BaseMvc\Petra.DAO\bin\Debug\FluentNHibernate.xml
+D:\pessoal\itamar\projetos_net\PETRA.BaseMvc\Petra.DAO\bin\Debug\Iesi.Collections.xml
+D:\pessoal\itamar\projetos_net\PETRA.BaseMvc\Petra.DAO\bin\Debug\NHibernate.xml
+D:\pessoal\itamar\projetos_net\PETRA.BaseMvc\Petra.DAO\obj\Debug\Petra.DAO.csprojResolveAssemblyReference.cache
+D:\pessoal\itamar\projetos_net\PETRA.BaseMvc\Petra.DAO\obj\Debug\Petra.DAO.dll
+D:\pessoal\itamar\projetos_net\PETRA.BaseMvc\Petra.DAO\obj\Debug\Petra.DAO.pdb

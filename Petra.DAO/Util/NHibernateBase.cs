@@ -55,18 +55,13 @@ namespace Petra.DAO.Util
 
             foreach (System.Reflection.Assembly a in assemblies) {
                 //Configuration.AddAssembly(a);
-                Fluently.Configure(Configuration)
-                    .Mappings(
-                      m => m.FluentMappings.AddFromAssembly(a))
+                SessionFactory = Fluently.Configure(Configuration)
+                    .Mappings(m => m.FluentMappings.AddFromAssembly(a))
                     .BuildSessionFactory();
 
             }
 
-
-
-
-
-            SessionFactory = Configuration.BuildSessionFactory();
+            //SessionFactory = Configuration.BuildSessionFactory();
 
             return Configuration; // Configuration;
         }
