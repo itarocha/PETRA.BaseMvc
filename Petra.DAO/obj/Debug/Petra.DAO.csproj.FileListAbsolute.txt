@@ -24,3 +24,14 @@ D:\pessoal\itamar\projetos_net\PETRA.BaseMvc\Petra.DAO\bin\Debug\NHibernate.xml
 D:\pessoal\itamar\projetos_net\PETRA.BaseMvc\Petra.DAO\obj\Debug\Petra.DAO.csprojResolveAssemblyReference.cache
 D:\pessoal\itamar\projetos_net\PETRA.BaseMvc\Petra.DAO\obj\Debug\Petra.DAO.dll
 D:\pessoal\itamar\projetos_net\PETRA.BaseMvc\Petra.DAO\obj\Debug\Petra.DAO.pdb
+E:\dardani\PETRA.BaseMvc\Petra.DAO\bin\Debug\Petra.DAO.dll.config
+E:\dardani\PETRA.BaseMvc\Petra.DAO\bin\Debug\Petra.DAO.dll
+E:\dardani\PETRA.BaseMvc\Petra.DAO\bin\Debug\Petra.DAO.pdb
+E:\dardani\PETRA.BaseMvc\Petra.DAO\bin\Debug\EntityFramework.xml
+E:\dardani\PETRA.BaseMvc\Petra.DAO\bin\Debug\EntityFramework.SqlServer.xml
+E:\dardani\PETRA.BaseMvc\Petra.DAO\bin\Debug\FluentNHibernate.xml
+E:\dardani\PETRA.BaseMvc\Petra.DAO\bin\Debug\Iesi.Collections.xml
+E:\dardani\PETRA.BaseMvc\Petra.DAO\bin\Debug\NHibernate.xml
+E:\dardani\PETRA.BaseMvc\Petra.DAO\obj\Debug\Petra.DAO.csprojResolveAssemblyReference.cache
+E:\dardani\PETRA.BaseMvc\Petra.DAO\obj\Debug\Petra.DAO.dll
+E:\dardani\PETRA.BaseMvc\Petra.DAO\obj\Debug\Petra.DAO.pdb

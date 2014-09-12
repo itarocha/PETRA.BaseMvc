@@ -49,3 +49,15 @@ D:\pessoal\itamar\projetos_net\PETRA.BaseMvc\Petra.Util\bin\Debug\FluentNHiberna
 D:\pessoal\itamar\projetos_net\PETRA.BaseMvc\Petra.Util\obj\Debug\Petra.Util.csprojResolveAssemblyReference.cache
 D:\pessoal\itamar\projetos_net\PETRA.BaseMvc\Petra.Util\obj\Debug\Petra.Util.dll
 D:\pessoal\itamar\projetos_net\PETRA.BaseMvc\Petra.Util\obj\Debug\Petra.Util.pdb
+E:\dardani\PETRA.BaseMvc\Petra.Util\bin\Debug\Petra.Util.dll
+E:\dardani\PETRA.BaseMvc\Petra.Util\bin\Debug\Petra.Util.pdb
+E:\dardani\PETRA.BaseMvc\Petra.Util\bin\Debug\Iesi.Collections.dll
+E:\dardani\PETRA.BaseMvc\Petra.Util\bin\Debug\NHibernate.dll
+E:\dardani\PETRA.BaseMvc\Petra.Util\bin\Debug\FluentNHibernate.dll
+E:\dardani\PETRA.BaseMvc\Petra.Util\bin\Debug\Dardani.DAO.pdb
+E:\dardani\PETRA.BaseMvc\Petra.Util\bin\Debug\Iesi.Collections.xml
+E:\dardani\PETRA.BaseMvc\Petra.Util\bin\Debug\NHibernate.xml
+E:\dardani\PETRA.BaseMvc\Petra.Util\bin\Debug\FluentNHibernate.xml
+E:\dardani\PETRA.BaseMvc\Petra.Util\obj\Debug\Petra.Util.csprojResolveAssemblyReference.cache
+E:\dardani\PETRA.BaseMvc\Petra.Util\obj\Debug\Petra.Util.dll
+E:\dardani\PETRA.BaseMvc\Petra.Util\obj\Debug\Petra.Util.pdb
