@@ -1,0 +1,11 @@
+E:\dardani\PETRA.BaseMvc\Petra.DAO\bin\Release\Petra.DAO.dll.config
+E:\dardani\PETRA.BaseMvc\Petra.DAO\bin\Release\Petra.DAO.dll
+E:\dardani\PETRA.BaseMvc\Petra.DAO\bin\Release\Petra.DAO.pdb
+E:\dardani\PETRA.BaseMvc\Petra.DAO\bin\Release\EntityFramework.xml
+E:\dardani\PETRA.BaseMvc\Petra.DAO\bin\Release\EntityFramework.SqlServer.xml
+E:\dardani\PETRA.BaseMvc\Petra.DAO\bin\Release\FluentNHibernate.xml
+E:\dardani\PETRA.BaseMvc\Petra.DAO\bin\Release\Iesi.Collections.xml
+E:\dardani\PETRA.BaseMvc\Petra.DAO\bin\Release\NHibernate.xml
+E:\dardani\PETRA.BaseMvc\Petra.DAO\obj\Release\Petra.DAO.csprojResolveAssemblyReference.cache
+E:\dardani\PETRA.BaseMvc\Petra.DAO\obj\Release\Petra.DAO.dll
+E:\dardani\PETRA.BaseMvc\Petra.DAO\obj\Release\Petra.DAO.pdb

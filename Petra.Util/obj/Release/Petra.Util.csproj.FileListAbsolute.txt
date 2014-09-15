@@ -11,3 +11,15 @@ E:\projetos_dardani\PETRA\Petra.Util\obj\Release\Petra.Util.dll
 E:\projetos_dardani\PETRA\Petra.Util\obj\Release\Petra.Util.pdb
 E:\projetos_dardani\PETRA\Petra.Util\bin\Release\FluentNHibernate.dll
 E:\projetos_dardani\PETRA\Petra.Util\bin\Release\FluentNHibernate.xml
+E:\dardani\PETRA.BaseMvc\Petra.Util\bin\Release\Petra.Util.dll
+E:\dardani\PETRA.BaseMvc\Petra.Util\bin\Release\Petra.Util.pdb
+E:\dardani\PETRA.BaseMvc\Petra.Util\bin\Release\Iesi.Collections.dll
+E:\dardani\PETRA.BaseMvc\Petra.Util\bin\Release\NHibernate.dll
+E:\dardani\PETRA.BaseMvc\Petra.Util\bin\Release\FluentNHibernate.dll
+E:\dardani\PETRA.BaseMvc\Petra.Util\bin\Release\Dardani.DAO.pdb
+E:\dardani\PETRA.BaseMvc\Petra.Util\bin\Release\Iesi.Collections.xml
+E:\dardani\PETRA.BaseMvc\Petra.Util\bin\Release\NHibernate.xml
+E:\dardani\PETRA.BaseMvc\Petra.Util\bin\Release\FluentNHibernate.xml
+E:\dardani\PETRA.BaseMvc\Petra.Util\obj\Release\Petra.Util.csprojResolveAssemblyReference.cache
+E:\dardani\PETRA.BaseMvc\Petra.Util\obj\Release\Petra.Util.dll
+E:\dardani\PETRA.BaseMvc\Petra.Util\obj\Release\Petra.Util.pdb
