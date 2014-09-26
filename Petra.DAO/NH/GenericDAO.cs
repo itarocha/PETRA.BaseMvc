@@ -16,6 +16,11 @@ namespace Petra.DAO.NH
             get { return NHibernateBase.Session; }
         }
 
+        protected IStatelessSession StatelessSession
+        {
+            get { return NHibernateBase.StatelessSession; }
+        }
+
         //private ISession session;
 
         public GenericDAO() {
