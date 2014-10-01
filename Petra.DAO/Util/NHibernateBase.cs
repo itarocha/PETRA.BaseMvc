@@ -23,46 +23,22 @@ namespace Petra.DAO.Util
             var Configuration = new NHibernate.Cfg.Configuration();
             Configuration.Configure(); // read config default style
 
-
-                //Configuration.AddAssembly(a);
             SessionFactory = Fluently.Configure(Configuration)
                     .Mappings(
                       m => m.FluentMappings.AddFromAssembly(a))
                     .BuildSessionFactory();
-
-            //SessionFactory = Configuration.BuildSessionFactory();
-
             return Configuration; // Configuration;
         }
 
-
         public static Configuration ConfigureNHibernate(System.Reflection.Assembly[] assemblies ) {
-            /*
-            var cfg = new NHibernate.Cfg.Configuration();
-            cfg.Configure(); // read config default style
-            Fluently.Configure(cfg)
-                .Mappings(
-                  m => m.FluentMappings.AddFromAssemblyOf<Turma>())
-                .BuildSessionFactory();
-            */
-
-            /*
-            Configuration = new Configuration();
-            Configuration.Configure();
-             */
             var Configuration = new NHibernate.Cfg.Configuration();
             Configuration.Configure(); // read config default style
 
             foreach (System.Reflection.Assembly a in assemblies) {
-                //Configuration.AddAssembly(a);
                 SessionFactory = Fluently.Configure(Configuration)
                     .Mappings(m => m.FluentMappings.AddFromAssembly(a))
                     .BuildSessionFactory();
-
             }
-
-            //SessionFactory = Configuration.BuildSessionFactory();
-
             return Configuration; // Configuration;
         }
         
